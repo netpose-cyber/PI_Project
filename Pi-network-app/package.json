@@ -1,0 +1,29 @@
+{
+    "name": "pi-network-app",
+    "version": "1.0.0",
+    "description": "A decentralized app (DApp) for Pi Network interactions.",
+    "main": "src/App.js",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "dependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0",
+      "react-router-dom": "^6.0.0",
+      "web3": "^1.6.1",
+      "ethers": "^5.6.9",
+      "dotenv": "^10.0.0",
+      "react-scripts": "4.0.3",
+      "axios": "^0.21.1"
+    },
+    "devDependencies": {
+      "react-scripts": "4.0.3"
+    },
+    "proxy": "http://localhost:5000",
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
