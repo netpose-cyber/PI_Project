@@ -1,10 +1,10 @@
  Pi Network 기반 애플리케이션 폴더 구조 및 파일명 정리
 전체 프로젝트는 스마트 컨트랙트, 백엔드, 프론트엔드로 구성됩니다.
 
+
 📂 프로젝트 폴더 구조
 python
-복사
-편집
+
 📦 pi-network-app
 ┣ 📂 smart-contracts          # 스마트 컨트랙트 관련 파일
 ┃ ┣ 📜 PiRewardContract.sol   # 보상 자동화 스마트 컨트랙트
